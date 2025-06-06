@@ -1,6 +1,6 @@
-# wine_review_analyzer_project
+# 🍇 Wine Review Analyzer Using Hadoop MapReduce
 
-🍇 Wine Review Analyzer Using Hadoop MapReduce  
+  
 This project analyzes wine review data using Java-based Hadoop MapReduce. It computes the average wine price per wine variety from a CSV dataset.
 
 ---
