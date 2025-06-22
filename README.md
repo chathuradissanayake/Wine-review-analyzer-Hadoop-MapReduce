@@ -232,6 +232,6 @@ wsl --shutdown
 
 ## 🤝 Contributions
 
-- Chathura Dissanayake
 - Malindu Dissanayaka
+- Chathura Dissanayake
 - Lahiru Maduwantha
